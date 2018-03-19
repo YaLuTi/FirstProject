@@ -19,8 +19,9 @@ if(image_angle >90 && image_angle<270){
 }
 
 //Fire
-if(mouse_check_button(mb_left)&&FireRate<0){
+if(mouse_check_button(mb_left)&&FireRate<0&&usingArmor>0){
 	FireRate = 3;
+	usingArmor--;
 	xx = x+lengthdir_x(25,image_angle);
 	yy = y+lengthdir_y(25,image_angle);
 	with(Camera){
@@ -31,6 +32,14 @@ if(mouse_check_button(mb_left)&&FireRate<0){
 		speed = 25;
 		direction = point_direction(x,y,mouse_x,mouse_y);
 		image_angle = direction;
+	}
+}else if(usingArmor<=0){
+	if(allArmor-maxUsingArmor>=0){
+		usingArmor = maxUsingArmor;
+		allArmor -= maxUsingArmor;
+	}else{
+		usingArmor = allArmor;
+		allArmor = 0;
 	}
 }
 FireRate--;

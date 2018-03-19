@@ -3,8 +3,10 @@
 camera = view_camera[0] ;
 
 follow = Player;
-xTo = x;
-yTo = y;
+x = Player.x;
+y = Player.y;
+xTo = Player.x;
+yTo = Player.y;
 
 shake = 0;
 

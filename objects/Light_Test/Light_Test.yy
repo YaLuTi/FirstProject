@@ -1,48 +1,38 @@
 {
-    "id": "9653172b-02a2-458f-abbe-4d1ca3941263",
+    "id": "65bb4184-4d9f-4260-b5fc-9ad6addfeec0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "E_Gun_Obj",
+    "name": "Light_Test",
     "eventList": [
         {
-            "id": "d9eb9641-19bd-4b9c-a20b-7a0fa5d8ae38",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "9653172b-02a2-458f-abbe-4d1ca3941263"
-        },
-        {
-            "id": "8405e9b2-7d7d-4e7e-b752-65c1514e2922",
+            "id": "9c935838-dadb-4979-8e20-b9502288c404",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "9653172b-02a2-458f-abbe-4d1ca3941263"
+            "m_owner": "65bb4184-4d9f-4260-b5fc-9ad6addfeec0"
         },
         {
-            "id": "4d812ffe-25e9-49f4-aa30-d76a16484bed",
+            "id": "1b983bdc-9125-45f0-94f5-babe9f757153",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "65bb4184-4d9f-4260-b5fc-9ad6addfeec0"
+        },
+        {
+            "id": "7fd79fc8-ecb7-4cf5-a4da-1c6174589475",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "9653172b-02a2-458f-abbe-4d1ca3941263"
-        },
-        {
-            "id": "49bb59f9-d5b2-4115-9e55-3b8dab120e0b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "9653172b-02a2-458f-abbe-4d1ca3941263"
+            "m_owner": "65bb4184-4d9f-4260-b5fc-9ad6addfeec0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fad79169-4215-488b-b2fb-de5be63bb5d9",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

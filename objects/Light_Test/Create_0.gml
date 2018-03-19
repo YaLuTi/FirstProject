@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-//x = Player.x;
-//y = Player.y;
-c = c_white;
+globalvar light;
+light = surface_create(room_width,room_height);
