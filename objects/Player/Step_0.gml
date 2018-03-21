@@ -3,6 +3,7 @@ key_right = keyboard_check(ord("D"));
 key_up = keyboard_check(ord("W"));
 key_down = keyboard_check(ord("S"));
 key_space = keyboard_check_pressed(vk_space);
+key_e = keyboard_check_pressed(ord("E"));
 
 
 //Move
@@ -48,7 +49,14 @@ if(Rush>1){
 	Rush = 1;
 }
 
-
+//Take Gun
+/*if (place_meeting(x,y,objectGun)){
+	with(objectGun){
+		holder = Player;
+	}
+	
+}*/
+//depth 
 depth = -y;
 
 

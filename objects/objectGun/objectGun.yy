@@ -1,38 +1,28 @@
 {
-    "id": "9b4a3e96-2f73-4072-ba2a-571a6a7b6250",
+    "id": "41d89978-21fa-4bad-91e1-c321e59ae08a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "gunUI",
+    "name": "objectGun",
     "eventList": [
         {
-            "id": "0453ffc7-b6e6-4568-a23e-74ca244c412c",
+            "id": "5fffdf71-b9b9-44fb-9f19-12983af192cf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "9b4a3e96-2f73-4072-ba2a-571a6a7b6250"
+            "m_owner": "41d89978-21fa-4bad-91e1-c321e59ae08a"
         },
         {
-            "id": "8377a709-0e8a-4d21-a743-4cf58799e9af",
+            "id": "fb079484-fc67-4cfc-9c21-51be70e4b30b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "9b4a3e96-2f73-4072-ba2a-571a6a7b6250"
-        },
-        {
-            "id": "7ea4f25d-079c-4cb7-bc61-8539c528e4fb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "9b4a3e96-2f73-4072-ba2a-571a6a7b6250"
+            "m_owner": "41d89978-21fa-4bad-91e1-c321e59ae08a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fad79169-4215-488b-b2fb-de5be63bb5d9",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

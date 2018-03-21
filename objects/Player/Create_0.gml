@@ -9,3 +9,5 @@ vsp = 0;
 Jump = true;
 FireRate = 0;
 Rush = 1;
+globalvar holdingGun;
+holdingGun = noone;

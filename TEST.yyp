@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "41d89978-21fa-4bad-91e1-c321e59ae08a",
+            "Value": {
+                "id": "7ecac5e7-b476-417d-aeb9-36405b2311e2",
+                "resourcePath": "objects\\objectGun\\objectGun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "45d4536a-c2f2-4b64-8f2f-e3d5aea82eff",
             "Value": {
                 "id": "c658b4b5-2353-4909-89bf-bb650761bac5",
@@ -260,6 +268,14 @@
                 "id": "274614a9-9357-47e4-9945-a78b9e363a1b",
                 "resourcePath": "sprites\\Run\\Run.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "64ed7f3b-db35-408d-8429-223c3b73cff0",
+            "Value": {
+                "id": "ede68dc8-b886-4826-acee-8cb195063d63",
+                "resourcePath": "objects\\Health\\Health.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -500,6 +516,14 @@
                 "id": "b0755154-8bc5-49a7-9629-ff37366082ea",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e6bdbbb4-2d3a-4c84-b14c-3db054fc80ba",
+            "Value": {
+                "id": "83f0406d-a1af-4d30-82c0-09637b9acef1",
+                "resourcePath": "sprites\\HealthBar\\HealthBar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
